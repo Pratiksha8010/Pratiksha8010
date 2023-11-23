@@ -9,7 +9,7 @@
 
 - 🎥 I create coding tutorial videos on YoutTube at [[https://youtube.com/c/AnoNymOuS-mg9oj]
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Web Development & Data Structures Algorithm**
 
 
 - 💬 Ask me about **C, HTML , SQL, CSS , JavaScript Etc.**
