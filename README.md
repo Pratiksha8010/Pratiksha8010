@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on **WEB DEV and Cloud Computing**
 
-- 🎥 I create coding tutorial videos on YoutTube at [[https://youtube.com/c/AnoNymOuS-mg9oj]
-
 - 🌱 I’m currently learning **Web Development & Data Structures Algorithm**
 
 
