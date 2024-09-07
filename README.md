@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Web Development & Data Structures Algorithm**
 
 
-- 💬 Ask me about **C, HTML , SQL, CSS , JavaScript Etc.**
+- 💬 Ask me about **C, HTML , SQL, CSS , JavaScript C++ Etc.**
 
 - 📫 How to reach me *https://www.linkedin.com/in/pratiksha-kale-845b14271**
 
